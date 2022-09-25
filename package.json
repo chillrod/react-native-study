@@ -10,7 +10,6 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "install": "^0.13.0",
     "react": "18.1.0",
     "react-native": "0.70.1",
     "react-native-gesture-handler": "^2.6.2",
